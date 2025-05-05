@@ -2,8 +2,23 @@
 title: Welcome to OENG1191
 ---
 ![[bim2.jpg]]
+### Week 9-12 Unity
+
+Please install the following:
+1. Refer to [[Unity|Unity Engine]] to install Unity Hub and Unity.
+2. Also go to https://www.blender.org/download/ to download Blender, which is needed in Assignment 3
+
+> [!caution] Important
+> Blender is needed in Assignment 3 to fix the render issue in Unity models. 
+> Note that points will be deducted if your assignment 3 models has render issue.
+> Refer the handout of week 9 import.
+
+Code explanation for unity basics handout:
+- [[Unity DoorScript.cs Explanation|Door automation]]
+- [[Unity TeleportScript.cs Explanation|Teleport function]]
+
 ### Week 8 Dynamo Content
-[[Dynamo Calculation|Dynamo Calculation]]
+- [[Dynamo Calculation|Dynamo Calculation]]
 ### Hardware Requirements
 
 To complete this course, you **MUST HAVE** a **Windows laptop** and bring it to class. If you do not have a Windows laptop, please do not enroll.
